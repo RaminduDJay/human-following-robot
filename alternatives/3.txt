@@ -1,0 +1,15 @@
+pi@raspberrypi:~/Desktop/Robot/human-following $ python3 main.py
+Camera initialized successfully.
+Resolution: 320.0x240.0, FPS: 30.0
+Serial connection established on /dev/ttyUSB0 at 9600 baud.
+Starting object tracking... Press 'q' to quit or Ctrl+C to stop.
+Error in detect_object: too many values to unpack (expected 2)
+Sending Command: STOP
+Error in detect_object: too many values to unpack (expected 2)
+Error in detect_object: too many values to unpack (expected 2)
+Error in detect_object: too many values to unpack (expected 2)
+Error in detect_object: too many values to unpack (expected 2)
+Error in detect_object: too many values to unpack (expected 2)
+Error in detect_object: too many values to unpack (expected 2)
+Error in detect_object: too many values to unpack (expected 2)
+Error in detect_object: too many values to unpack (exp
